@@ -12,7 +12,7 @@ Clone the Repository
 
 
 ```bash
-git clone <[repository-url](https://github.com/tyrenleong/Space-Lander-Control-Simulation.git)>
+git clone https://github.com/tyrenleong/Space-Lander-Control-Simulation.git
 cd lander-control-simulator
 ```
 
